@@ -3,7 +3,7 @@
 ## Description
 Welcome to my great app.
 
-## Avaliable npm scripts
+## Development npm scripts
 
 ```
 npm run start           # Start the node js server
